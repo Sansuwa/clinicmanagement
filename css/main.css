@@ -1,0 +1,42 @@
+.bg-primary {
+    background: #F0F2F0;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #000C40, #F0F2F0);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #000C40, #F0F2F0);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.col-md-4 {
+    max-width: 20% !important;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background: #F0F2F0;
+    background: -webkit-linear-gradient(to right, #000C40, #F0F2F0);
+    background: linear-gradient(to right, #000C40, #F0F2F0);
+    border-color: #c3c3c3;
+}
+
+.text-primary {
+    color: #342ac1 !important;
+}
+
+#cpass {
+    display: -webkit-box;
+}
+
+#list-app {
+    font-size: 15px;
+}
+
+.btn-primary {
+    background-color: #3c50c1;
+    border-color: #3c50c1;
+}
+
+.navbar-brand{
+    margin-left: 15px;;
+}
